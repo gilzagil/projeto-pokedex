@@ -1,0 +1,21 @@
+.title {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.moves{
+    padding: 10px;
+}
+
+.geral {
+    display: flex;
+    margin-top: 10px;
+    margin-right: 30px;
+}   
+
+.corfundo{
+    height: 100%;
+    background-size: cover;
+    background-color:#dcbe98;
+   
+}

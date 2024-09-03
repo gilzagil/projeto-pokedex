@@ -1,9 +1,11 @@
-import MostraPokemon from './services/get-pokemon';
-import './App.css';
+import Rotas from './components/cards/rotas';
+import './index.css';
 
 function App() {
   return (
-    <MostraPokemon/>
+    
+    <Rotas/>
+   
   );
 }
 
